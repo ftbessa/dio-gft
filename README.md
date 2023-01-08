@@ -4,6 +4,7 @@ Projeto do *Bootcamp de Quality Assurance da GFT - DIO* usando o software JIRA
 ## Conteúdos abordados
 - Criação de fluxo de trabalho
 - Criação de casos de testes
+- Criação de Mind Map
 - Abertura de BUG
 - Execução de testes
 - Uso da Linguagem Gerking
